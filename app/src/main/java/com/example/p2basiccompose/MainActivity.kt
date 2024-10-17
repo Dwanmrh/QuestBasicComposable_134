@@ -82,6 +82,12 @@ Column (
         style = TextStyle(fontSize = 40.sp, fontWeight = FontWeight.Medium),
         modifier = Modifier.padding(bottom = 16.dp)
     )
+
+    Image(
+        painter = painterResource(id = R.drawable.dwan),
+        contentDescription = null,
+        modifier = Modifier.size(200.dp).padding(top = 20.dp)
+    )
 }
 }
 
