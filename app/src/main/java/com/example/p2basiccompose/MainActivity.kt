@@ -63,6 +63,12 @@ Column (
         contentDescription = null,
         modifier = Modifier.size(250.dp).padding(bottom = 15.dp).padding(top = 20.dp)
     )
+
+    Text(
+        text = "Nama",
+        style = TextStyle(fontSize = 17.sp, fontWeight = FontWeight.Medium),
+        modifier = Modifier.padding(bottom = 8.dp)
+    )
 }
 }
 
