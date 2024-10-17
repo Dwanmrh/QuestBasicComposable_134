@@ -95,6 +95,6 @@ Column (
 @Composable
 fun GreetingPreview() {
     P2BasicComposeTheme {
-        Greeting("Android")
+        BasicLayout()
     }
 }
