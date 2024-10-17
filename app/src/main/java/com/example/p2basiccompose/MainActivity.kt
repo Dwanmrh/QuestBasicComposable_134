@@ -61,7 +61,7 @@ Column (
     Image(
         painter = painterResource(id = R.drawable.umy),
         contentDescription = null,
-        modifier = Modifier.size(200.dp).padding(top = 20.dp)
+        modifier = Modifier.size(250.dp).padding(bottom = 15.dp).padding(top = 20.dp)
     )
 }
 }
