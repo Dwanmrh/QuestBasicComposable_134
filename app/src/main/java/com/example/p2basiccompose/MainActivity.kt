@@ -73,6 +73,8 @@ Column (
     Text(
         text = "Ridwan Hidayatullah",
         color = Color.Red,
+        style = TextStyle(fontSize = 13.sp, fontWeight = FontWeight.Bold),
+        modifier = Modifier.padding(bottom = 16.dp)
     )
 }
 }
