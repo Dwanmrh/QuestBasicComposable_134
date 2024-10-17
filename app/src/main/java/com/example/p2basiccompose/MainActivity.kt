@@ -57,6 +57,8 @@ Column (
         text = "Ini adalah halaman login",
         style = TextStyle(fontSize = 15.sp, fontWeight = FontWeight.Medium)
     )
+
+
 }
 }
 
