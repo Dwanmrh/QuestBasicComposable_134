@@ -58,7 +58,10 @@ Column (
         style = TextStyle(fontSize = 15.sp, fontWeight = FontWeight.Medium)
     )
 
+    Image(
+        painter = painterResource(id = R.drawable.umy),
 
+    )
 }
 }
 
