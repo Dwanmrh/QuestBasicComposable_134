@@ -50,7 +50,7 @@ Column (
     Text(
         text = "Login",
         style = TextStyle(fontSize = 40.sp, fontWeight = FontWeight.Bold),
-
+        modifier = Modifier.padding(bottom = 16.dp)
     )
 }
 }
