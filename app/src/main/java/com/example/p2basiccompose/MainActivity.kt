@@ -52,6 +52,11 @@ Column (
         style = TextStyle(fontSize = 40.sp, fontWeight = FontWeight.Bold),
         modifier = Modifier.padding(bottom = 16.dp)
     )
+
+    Text(
+        text = "Ini adalah halaman login",
+        style = TextStyle(fontSize = 15.sp, fontWeight = FontWeight.Medium)
+    )
 }
 }
 
