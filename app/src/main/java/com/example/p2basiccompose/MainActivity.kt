@@ -86,7 +86,7 @@ Column (
     Image(
         painter = painterResource(id = R.drawable.dwan),
         contentDescription = null,
-        modifier = Modifier.size(200.dp).padding(top = 20.dp)
+        modifier = Modifier.size(300.dp).padding(top = 20.dp)
     )
 }
 }
