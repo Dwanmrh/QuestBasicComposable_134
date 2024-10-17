@@ -76,6 +76,12 @@ Column (
         style = TextStyle(fontSize = 13.sp, fontWeight = FontWeight.Bold),
         modifier = Modifier.padding(bottom = 16.dp)
     )
+
+    Text(
+        text = "20220140134",
+        style = TextStyle(fontSize = 40.sp, fontWeight = FontWeight.Medium),
+        modifier = Modifier.padding(bottom = 16.dp)
+    )
 }
 }
 
